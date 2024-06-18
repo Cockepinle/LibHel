@@ -1,0 +1,6 @@
+C:\Users\alepi\OneDrive\Рабочий стол\HelperLib\bin\Debug\HelperLib.dll
+C:\Users\alepi\OneDrive\Рабочий стол\HelperLib\bin\Debug\HelperLib.pdb
+C:\Users\alepi\OneDrive\Рабочий стол\HelperLib\obj\Debug\HelperLib.csproj.AssemblyReference.cache
+C:\Users\alepi\OneDrive\Рабочий стол\HelperLib\obj\Debug\HelperLib.csproj.CoreCompileInputs.cache
+C:\Users\alepi\OneDrive\Рабочий стол\HelperLib\obj\Debug\HelperLib.dll
+C:\Users\alepi\OneDrive\Рабочий стол\HelperLib\obj\Debug\HelperLib.pdb
